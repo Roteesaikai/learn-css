@@ -1,0 +1,22 @@
+body{
+    background-color: aqua;
+}
+.Box{
+    width: 600px;
+    height: 600px;
+    padding: 20px;
+    background-color: blue;
+    display: flex;
+    justify-content:space-between;
+    align-items:center;
+}
+.InBox{
+    width: 25%;
+    height: 25%;
+    background-color: brown;
+}
+.InBox2{
+    width: 25%;
+    height: 25%;
+    background-color: rgb(165, 42, 159);
+}
